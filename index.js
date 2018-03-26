@@ -1,1 +1,1 @@
-function happyHolidays(string){if (string === string){return "Happy holidays!"}}
+function happyHolidays(){return "Happy holidays!"}}
