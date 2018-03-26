@@ -1,2 +1,2 @@
 function happyHolidays(){return "Happy holidays!"}
-function happyHolidayTo(Mike){return "Happy holidays, (Mike)"}
+function happyHolidaysTo(Mike){return "Happy holidays, {Mike}"}
