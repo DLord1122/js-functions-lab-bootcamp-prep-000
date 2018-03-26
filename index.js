@@ -1,1 +1,1 @@
-// write your code below!
+function happyHolidays(string)(string === string){return "Happy holidays!"}
