@@ -1,2 +1,2 @@
 function happyHolidays(){return "Happy holidays!"}
-function happyHolidaysTo(string){if (string === "Mike"){return "Happy holidays, (string)"}}
+function happyHolidaysTo(name) {return `Happy holidays, ${name}!`}
